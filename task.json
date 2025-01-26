@@ -1,0 +1,18 @@
+{
+ "tasks": [
+  {
+   "id": 1,
+   "description": "Learn Go",
+   "status": "todo",
+   "createdAt": "2025-01-25T17:30:56.2965123+05:30",
+   "updatedAt": "2025-01-25T17:30:56.2965123+05:30"
+  },
+  {
+   "id": 2,
+   "description": "Learn Go and fiber",
+   "status": "done",
+   "createdAt": "2025-01-25T17:32:14.7336749+05:30",
+   "updatedAt": "2025-01-25T17:32:14.7336749+05:30"
+  }
+ ]
+}
